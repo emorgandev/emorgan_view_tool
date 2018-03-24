@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+EmorganViewTool::Renderer.copyright 'Eric Morgan', 'All Rights Reserved'
+```
 
 ## Development
 
